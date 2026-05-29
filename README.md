@@ -26,6 +26,8 @@
 
 | Course | Date | Issuing Organization / Company | Certificate |
 |--------|------|--------------------------------|------|
+| Understanding Research Methods | 2026 | University of London via Coursera | [click to view](https://www.coursera.org/account/accomplishments/verify/5VO6SQBQ9J9Q)|
+| Understanding Research Methods | 2026 | Alison | [click to view](https://alison.com/verify/b540e22693)|
 | Fundamentals of Six Sigma – Six Sigma White Belt | 2026 | Alison | [click to view](https://alison.com/verify/d7aeb17ae5)|
 | Introduction to Indutrial Engineering | 2026 | Alison | [click to view](https://alison.com/verify/436c2d2ea7)|
 | Diploma in Python Programming | 2024 | Alison | [click to view](https://alison.com/certification/check/311ed4ee4e) |
